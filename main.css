@@ -34,8 +34,27 @@ ul {
   }
 nav {
     background-color: #3c579d;
+    margin-bottom: 5%;
 }
 
 #registrationAndLogin {
     float: right;
+}
+
+main {
+  flex-direction: column;
+  text-align: center;
+}
+.flex-item{
+
+}
+footer {
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   color: black;
+   text-align: center;
+   font-size: 12px;
+   margin-left: 10%;
+   margin-right: 10%;
 }
